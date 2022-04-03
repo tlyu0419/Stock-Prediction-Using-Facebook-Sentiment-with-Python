@@ -1,1 +1,15 @@
 # Sentiment-Analysis-of-Facebook-Data-for-Predicting-Stock-Prices-with-Python
+- Speaker: 游騰林
+- Date: 2022-05-07
+- Time: 10:00 ~ 17:00
+- Location: NCCU
+- Abstract: 許多研究都指出民眾在社群網站(Facebook, Twitter...)的發言內容，在經過情感分析抽取出的情感分數能夠有效預測未來的股價趨勢。在這次的工作坊中我將以 Facebook 的資料為例，帶著大家透過 Python 優雅的開發與收集 Facebook 在粉絲專頁/社團的資料，實作常見的情感分析方法與實務應用。最終再藉由抽取出的情感分數建置股價預測模型，幫助大家在進行投資時能增加一些具有價值和意義的參考指標
+- Ref:
+  - Sentiment Analysis of Twitter Data for Predicting Stock Market Movements
+  - Sentiment analysis of twitter data
+  - Stock Prediction Using Twitter Sentiment Analysis
+  - The Effects of Twitter Sentiment on Stock Price Returns
+  - Twitter Mood as a Stock Market Predictor
+  - Twitter mood predicts the stock market
+- Link: 
+- Slide: 
