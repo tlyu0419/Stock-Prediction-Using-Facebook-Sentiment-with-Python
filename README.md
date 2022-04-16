@@ -1,4 +1,4 @@
-# Sentiment Analysis of Facebook Data for Predicting Stock Prices with Python
+# Stock Prediction Using Facebook Sentiment with Python
 - Speaker: 游騰林
 - Date: 2022-05-07
 - Time: 10:00 ~ 17:00
