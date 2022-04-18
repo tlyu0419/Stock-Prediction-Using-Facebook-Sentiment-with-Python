@@ -41,7 +41,7 @@ Once we have identified the explanatory and target variables, we then return to 
 ### Portfolio suggestion
 Finally, I will establish some investment indicators based on the forecast results predicted by the model so that investors can understand the forecast results easily and make corresponding buy/sell decisions.
 
-- Refernece:
+## Refernece:
   - Pagolu, V. S., Reddy, K. N., Panda, G., & Majhi, B. (2016, October). Sentiment analysis of Twitter data for predicting stock market movements. In 2016 international conference on signal processing, communication, power and embedded system (SCOPES) (pp. 1345-1350). IEEE.
   - Kharde, V., & Sonawane, P. (2016). Sentiment analysis of Twitter data: a survey of techniques. arXiv preprint arXiv:1601.06971.
   - Mittal, A., & Goel, A. (2012). Stock prediction using Twitter sentiment analysis. Standford University, CS229 (2011 http://cs229. stanford. edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis. pdf), 15, 2352.
