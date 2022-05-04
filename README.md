@@ -42,10 +42,21 @@ Once we have identified the explanatory and target variables, we then return to 
 Finally, I will establish some investment indicators based on the forecast results predicted by the model so that investors can understand the forecast results easily and make corresponding buy/sell decisions.
 
 ## Refernece:
-  - Pagolu, V. S., Reddy, K. N., Panda, G., & Majhi, B. (2016, October). Sentiment analysis of Twitter data for predicting stock market movements. In 2016 international conference on signal processing, communication, power and embedded system (SCOPES) (pp. 1345-1350). IEEE.
-  - Kharde, V., & Sonawane, P. (2016). Sentiment analysis of Twitter data: a survey of techniques. arXiv preprint arXiv:1601.06971.
-  - Mittal, A., & Goel, A. (2012). Stock prediction using Twitter sentiment analysis. Standford University, CS229 (2011 http://cs229. stanford. edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis. pdf), 15, 2352.
-  - Bollen, J., & Mao, H. (2011). Twitter mood as a stock market predictor. Computer, 44(10), 91-94.
-  - [徐琳宏, 林鸿飞, 潘宇, 任惠, & 陈建美. (2008). 情感词汇本体的构造. 情报学报, 27(2), 180-185.](http://ir.dlut.edu.cn/info/1013/1142.htm)
-    - Download Link: [情感词汇本体-词典-信息檢索研究室](http://ir.dlut.edu.cn/info/1013/1142.htm)
-  - [Shih-Ming Wang and Lun-Wei Ku. 2016. ANTUSD: A Large Chinese Sentiment Dictionary. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), pages 2697–2702, Portorož, Slovenia. European Language Resources Association (ELRA).](https://aclanthology.org/L16-1428.pdf)
+- Pagolu, V. S., Reddy, K. N., Panda, G., & Majhi, B. (2016, October). Sentiment analysis of Twitter data for predicting stock market movements. In 2016 international conference on signal processing, communication, power and embedded system (SCOPES) (pp. 1345-1350). IEEE.
+- Kharde, V., & Sonawane, P. (2016). Sentiment analysis of Twitter data: a survey of techniques. arXiv preprint arXiv:1601.06971.
+- Mittal, A., & Goel, A. (2012). Stock prediction using Twitter sentiment analysis. Standford University, CS229 (2011 http://cs229. stanford. edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis. pdf), 15, 2352.
+- Bollen, J., & Mao, H. (2011). Twitter mood as a stock market predictor. Computer, 44(10), 91-94.
+- [徐琳宏, 林鸿飞, 潘宇, 任惠, & 陈建美. (2008). 情感词汇本体的构造. 情报学报, 27(2), 180-185.](http://ir.dlut.edu.cn/info/1013/1142.htm)
+  - Download Link: [情感词汇本体-词典-信息檢索研究室](http://ir.dlut.edu.cn/info/1013/1142.htm)
+- [Shih-Ming Wang and Lun-Wei Ku. 2016. ANTUSD: A Large Chinese Sentiment Dictionary. In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), pages 2697–2702, Portorož, Slovenia. European Language Resources Association (ELRA).](https://aclanthology.org/L16-1428.pdf)
+  
+## Enviroment
+- Python 3.8.10
+- Packages: See requirements.txt
+
+
+## Todo
+NLTK的版本，有些套件有更新
+sns 的字體
+pip list
+source env
