@@ -1,7 +1,6 @@
 baidu-aip==4.16.3   
 beautifulsoup4==4.10.0   
 bs4==0.0.1    
-en-core-web-sm==3.2.0    
 facebook-crawler==0.0.26   
 jieba==0.42.1   
 jupyterlab==3.3.2    
