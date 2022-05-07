@@ -1,7 +1,7 @@
 baidu-aip==4.16.3   
 beautifulsoup4==4.10.0   
 bs4==0.0.1    
-facebook-crawler==0.0.26   
+facebook-crawler==0.0.28   
 jieba==0.42.1   
 jupyterlab==3.3.2    
 jupyterlab-execute-time==2.1.0    
