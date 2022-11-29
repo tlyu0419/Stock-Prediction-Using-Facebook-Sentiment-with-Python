@@ -55,8 +55,5 @@ Finally, I will establish some investment indicators based on the forecast resul
 - Packages: See requirements.txt
 
 
-## Todo
-NLTK的版本，有些套件有更新
-sns 的字體
-pip list
-source env
+# Links
+- https://colab.research.google.com/drive/1585RhGdClRPaQ164hu55HWemMrQ7ODDH?usp=sharing
